@@ -1,0 +1,23 @@
+                        -H/Users/shahoodhussain/Documents/projects/react_native/image_loader/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup
+-DCMAKE_SYSTEM_NAME=Android
+-DCMAKE_EXPORT_COMPILE_COMMANDS=ON
+-DCMAKE_SYSTEM_VERSION=23
+-DANDROID_PLATFORM=android-23
+-DANDROID_ABI=x86
+-DCMAKE_ANDROID_ARCH_ABI=x86
+-DANDROID_NDK=/Users/shahoodhussain/Library/Android/sdk/ndk/26.1.10909125
+-DCMAKE_ANDROID_NDK=/Users/shahoodhussain/Library/Android/sdk/ndk/26.1.10909125
+-DCMAKE_TOOLCHAIN_FILE=/Users/shahoodhussain/Library/Android/sdk/ndk/26.1.10909125/build/cmake/android.toolchain.cmake
+-DCMAKE_MAKE_PROGRAM=/Users/shahoodhussain/Library/Android/sdk/cmake/3.22.1/bin/ninja
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/Users/shahoodhussain/Documents/projects/react_native/image_loader/android/app/build/intermediates/cxx/Debug/2k102l2v/obj/x86
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=/Users/shahoodhussain/Documents/projects/react_native/image_loader/android/app/build/intermediates/cxx/Debug/2k102l2v/obj/x86
+-DCMAKE_BUILD_TYPE=Debug
+-DCMAKE_FIND_ROOT_PATH=/Users/shahoodhussain/Documents/projects/react_native/image_loader/android/app/.cxx/Debug/2k102l2v/prefab/x86/prefab
+-B/Users/shahoodhussain/Documents/projects/react_native/image_loader/android/app/.cxx/Debug/2k102l2v/x86
+-GNinja
+-DPROJECT_BUILD_DIR=/Users/shahoodhussain/Documents/projects/react_native/image_loader/android/app/build
+-DREACT_ANDROID_DIR=/Users/shahoodhussain/Documents/projects/react_native/image_loader/node_modules/react-native/ReactAndroid
+-DANDROID_STL=c++_shared
+-DANDROID_USE_LEGACY_TOOLCHAIN_FILE=ON
+                        Build command args: []
+                        Version: 2

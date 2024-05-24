@@ -1,0 +1,1 @@
+/Users/shahoodhussain/Documents/projects/react_native/image_loader/android/app/build/intermediates/cxx/Debug/2k102l2v/obj/x86_64

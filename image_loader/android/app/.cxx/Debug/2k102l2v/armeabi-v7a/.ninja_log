@@ -1,0 +1,13 @@
+# ninja log v5
+2570	2730	1716142157622189263	/Users/shahoodhussain/Documents/projects/react_native/image_loader/android/app/build/intermediates/cxx/Debug/2k102l2v/obj/armeabi-v7a/libappmodules.so	23ce013851d0a7c9
+16	101	1716142361208980922	build.ninja	6c77714c547d9d93
+5	2570	1716142157456616587	CMakeFiles/appmodules.dir/OnLoad.cpp.o	78161059767b7760
+4	2231	1716142157120269902	CMakeFiles/appmodules.dir/Users/shahoodhussain/Documents/projects/react_native/image_loader/android/app/build/generated/rncli/src/main/jni/rncli.cpp.o	c24ac254630ce0
+0	21	0	/Users/shahoodhussain/Documents/projects/react_native/image_loader/android/app/.cxx/Debug/2k102l2v/armeabi-v7a/CMakeFiles/cmake.verify_globs	c793ae85492b2792
+22	129	1716142361208980922	build.ninja	6c77714c547d9d93
+1	20	0	/Users/shahoodhussain/Documents/projects/react_native/image_loader/android/app/.cxx/Debug/2k102l2v/armeabi-v7a/CMakeFiles/cmake.verify_globs	c793ae85492b2792
+5	3738	1716142364971346634	CMakeFiles/appmodules.dir/Users/shahoodhussain/Documents/projects/react_native/image_loader/android/app/build/generated/rncli/src/main/jni/rncli.cpp.o	c24ac254630ce0
+5	4200	1716142365430721159	CMakeFiles/appmodules.dir/OnLoad.cpp.o	78161059767b7760
+4200	4438	1716142365677419844	/Users/shahoodhussain/Documents/projects/react_native/image_loader/android/app/build/intermediates/cxx/Debug/2k102l2v/obj/armeabi-v7a/libappmodules.so	23ce013851d0a7c9
+8	65	0	/Users/shahoodhussain/Documents/projects/react_native/image_loader/android/app/.cxx/Debug/2k102l2v/armeabi-v7a/CMakeFiles/cmake.verify_globs	c793ae85492b2792
+0	7	0	clean	12cbd7ea52cfd3f9
