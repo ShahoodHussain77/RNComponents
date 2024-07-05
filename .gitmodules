@@ -1,0 +1,3 @@
+[submodule "file_uploader"]
+	path = file_uploader
+	url = ./file_uploader
