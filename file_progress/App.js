@@ -1,64 +1,96 @@
-import axios from 'axios';
 import React, {useState} from 'react';
-import {View, Text, StyleSheet, TouchableOpacity} from 'react-native';
+import {StyleSheet, Text, View, TouchableOpacity} from 'react-native';
 import DocumentPicker from 'react-native-document-picker';
+import axios from 'axios';
+
+const FILE_SIZE_TO_MB = 1024 * 1024;
 
 const App = () => {
   const [selectedFile, setSelectedFile] = useState(null);
+  const [uploadedProgress, setUploadedProgress] = useState(null);
 
-  const pickDocument = async () => {
+  const _handleSelectFile = async () => {
     try {
-      const result = await DocumentPicker.pick({
-        // Provide options to filter file types (adjust as needed)
-        type: [DocumentPicker.types.allFiles],
+      const file = await DocumentPicker.pick({
+        type: [DocumentPicker.types.pdf],
       });
 
-      setSelectedFile(result[0]); // Assuming single file selection
-      console.log('File selected:', result[0]);
-    } catch (err) {
-      console.warn('Error picking document:', err);
-      // Handle errors gracefully (e.g., display user-friendly message)
+      setSelectedFile(file[0]);
+    } catch (error) {
+      console.warn('error', error);
     }
   };
 
-  const _handleDownload = () => {
-    axios
-      .get('http://localhost:3000/downloads/pdf/downloadPdf', {
+  const _handleUploadFile = async () => {
+    const formData = new FormData();
+    formData.append('file', {
+      uri: selectedFile.uri,
+      name: selectedFile.name,
+      type: selectedFile.type,
+    });
+
+    await axios
+      .post('http://localhost:3000/downloads/pdf/uploadPdf', formData, {
         headers: {
-          Accept: 'application/pdf',
+          Accept: 'application/json, text/plain, */*',
+          'Content-Type': 'multipart/form-data',
         },
-        responseType: 'blob',
+
+        onUploadProgress: uploadProgress =>
+          setUploadedProgress(uploadProgress.loaded),
       })
       .then(result => {
-        console.log('response ', result);
+        console.log('result', result);
+        setUploadedProgress(selectedFile.size);
       })
       .catch(error => {
         console.log('error', error);
       });
   };
 
-  const _handleUploadFile = () => {};
+  const fileSize = selectedFile
+    ? (selectedFile.size / FILE_SIZE_TO_MB).toFixed(2)
+    : 0;
+
+  const uploadedSize = uploadedProgress
+    ? (uploadedProgress / FILE_SIZE_TO_MB).toFixed(2)
+    : 0;
 
   return (
     <View style={styles.container}>
+      <View style={styles.progressContainer}>
+        <Text style={styles.progressText}>
+          {uploadedSize}/{fileSize}
+        </Text>
+      </View>
+
       <Text>Selected file: {selectedFile?.name || 'no file selected'}</Text>
 
-      <TouchableOpacity onPress={pickDocument} style={styles.button}>
+      <TouchableOpacity style={styles.button} onPress={_handleSelectFile}>
         <Text style={styles.text}>Open file picker</Text>
       </TouchableOpacity>
 
-      <TouchableOpacity onPress={_handleUploadFile} style={styles.button}>
+      <TouchableOpacity style={styles.button} onPress={_handleUploadFile}>
         <Text style={styles.text}>Upload file</Text>
       </TouchableOpacity>
     </View>
   );
 };
 
+export default App;
+
 const styles = StyleSheet.create({
   container: {
     flex: 1,
     justifyContent: 'center',
     alignItems: 'center',
+  },
+  progressContainer: {
+    marginVertical: 40,
+  },
+  progressText: {
+    fontSize: 28,
+    transform: [{scale: 1.5}],
   },
   button: {
     marginVertical: 20,
@@ -75,5 +107,3 @@ const styles = StyleSheet.create({
     color: 'rgb(209,85,78)',
   },
 });
-
-export default App;
