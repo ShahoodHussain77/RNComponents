@@ -1,0 +1,6 @@
+/Users/shahoodhussain/Documents/projects/react_native/splash_screen/android/app/.cxx/Debug/2z6z1394/armeabi-v7a/CMakeFiles/appmodules.dir
+/Users/shahoodhussain/Documents/projects/react_native/splash_screen/android/app/.cxx/Debug/2z6z1394/armeabi-v7a/CMakeFiles/edit_cache.dir
+/Users/shahoodhussain/Documents/projects/react_native/splash_screen/android/app/.cxx/Debug/2z6z1394/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/Users/shahoodhussain/Documents/projects/react_native/splash_screen/android/app/.cxx/Debug/2z6z1394/armeabi-v7a/RNBootSplashSpec_autolinked_build/CMakeFiles/react_codegen_RNBootSplashSpec.dir
+/Users/shahoodhussain/Documents/projects/react_native/splash_screen/android/app/.cxx/Debug/2z6z1394/armeabi-v7a/RNBootSplashSpec_autolinked_build/CMakeFiles/edit_cache.dir
+/Users/shahoodhussain/Documents/projects/react_native/splash_screen/android/app/.cxx/Debug/2z6z1394/armeabi-v7a/RNBootSplashSpec_autolinked_build/CMakeFiles/rebuild_cache.dir

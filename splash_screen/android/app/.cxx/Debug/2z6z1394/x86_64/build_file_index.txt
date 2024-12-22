@@ -1,0 +1,2 @@
+/Users/shahoodhussain/Documents/projects/react_native/splash_screen/node_modules/react-native-bootsplash/android/build/generated/source/codegen/jni/CMakeLists.txt
+/Users/shahoodhussain/Documents/projects/react_native/splash_screen/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt

@@ -1,0 +1,1 @@
+/Users/shahoodhussain/Documents/projects/react_native/splash_screen/android/app/build/intermediates/cxx/Debug/2z6z1394/obj/arm64-v8a

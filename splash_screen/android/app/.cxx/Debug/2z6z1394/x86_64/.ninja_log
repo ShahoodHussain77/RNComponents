@@ -1,0 +1,22 @@
+# ninja log v5
+4329	4453	1732903639652054323	/Users/shahoodhussain/Documents/projects/react_native/splash_screen/android/app/build/intermediates/cxx/Debug/2z6z1394/obj/x86_64/libappmodules.so	f37fc16cfeadc331
+0	4329	1732903639528907938	CMakeFiles/appmodules.dir/OnLoad.cpp.o	14c20f32a37342e2
+0	4023	1732903639222525688	CMakeFiles/appmodules.dir/Users/shahoodhussain/Documents/projects/react_native/splash_screen/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	ab22ef3dd550a916
+1	3979	1732903639173249475	RNBootSplashSpec_autolinked_build/CMakeFiles/react_codegen_RNBootSplashSpec.dir/RNBootSplashSpec-generated.cpp.o	4ba518740761dcae
+1	3970	1732903639168830598	RNBootSplashSpec_autolinked_build/CMakeFiles/react_codegen_RNBootSplashSpec.dir/react/renderer/components/RNBootSplashSpec/Props.cpp.o	7ad2292e0ffda4a1
+1	29	0	/Users/shahoodhussain/Documents/projects/react_native/splash_screen/android/app/.cxx/Debug/2z6z1394/x86_64/CMakeFiles/cmake.verify_globs	b0fd4e3f70a4a9ae
+2	3771	1732903638964946479	RNBootSplashSpec_autolinked_build/CMakeFiles/react_codegen_RNBootSplashSpec.dir/react/renderer/components/RNBootSplashSpec/RNBootSplashSpecJSI-generated.cpp.o	f2a9e3698702ebf2
+2	3736	1732903638931017457	RNBootSplashSpec_autolinked_build/CMakeFiles/react_codegen_RNBootSplashSpec.dir/react/renderer/components/RNBootSplashSpec/ShadowNodes.cpp.o	5868d512a29cf36f
+1	3865	1732903639062469077	RNBootSplashSpec_autolinked_build/CMakeFiles/react_codegen_RNBootSplashSpec.dir/react/renderer/components/RNBootSplashSpec/ComponentDescriptors.cpp.o	b1ce9b8d9ea7e018
+1	3137	1732903638335790813	RNBootSplashSpec_autolinked_build/CMakeFiles/react_codegen_RNBootSplashSpec.dir/react/renderer/components/RNBootSplashSpec/EventEmitters.cpp.o	9fd727e74de9f186
+2	2928	1732903638125778865	RNBootSplashSpec_autolinked_build/CMakeFiles/react_codegen_RNBootSplashSpec.dir/react/renderer/components/RNBootSplashSpec/States.cpp.o	8ad669be15018e3e
+0	18	0	/Users/shahoodhussain/Documents/projects/react_native/splash_screen/android/app/.cxx/Debug/2z6z1394/x86_64/CMakeFiles/cmake.verify_globs	b0fd4e3f70a4a9ae
+9	2671	1734173374625665231	RNBootSplashSpec_autolinked_build/CMakeFiles/react_codegen_RNBootSplashSpec.dir/react/renderer/components/RNBootSplashSpec/States.cpp.o	8ad669be15018e3e
+8	2864	1734173374819934506	RNBootSplashSpec_autolinked_build/CMakeFiles/react_codegen_RNBootSplashSpec.dir/react/renderer/components/RNBootSplashSpec/EventEmitters.cpp.o	9fd727e74de9f186
+9	3522	1734173375477657785	RNBootSplashSpec_autolinked_build/CMakeFiles/react_codegen_RNBootSplashSpec.dir/react/renderer/components/RNBootSplashSpec/ShadowNodes.cpp.o	5868d512a29cf36f
+8	3556	1734173375508816215	RNBootSplashSpec_autolinked_build/CMakeFiles/react_codegen_RNBootSplashSpec.dir/react/renderer/components/RNBootSplashSpec/RNBootSplashSpecJSI-generated.cpp.o	f2a9e3698702ebf2
+7	3672	1734173375625430713	RNBootSplashSpec_autolinked_build/CMakeFiles/react_codegen_RNBootSplashSpec.dir/react/renderer/components/RNBootSplashSpec/ComponentDescriptors.cpp.o	b1ce9b8d9ea7e018
+8	3761	1734173375716267017	RNBootSplashSpec_autolinked_build/CMakeFiles/react_codegen_RNBootSplashSpec.dir/react/renderer/components/RNBootSplashSpec/Props.cpp.o	7ad2292e0ffda4a1
+7	3785	1734173375737514260	RNBootSplashSpec_autolinked_build/CMakeFiles/react_codegen_RNBootSplashSpec.dir/RNBootSplashSpec-generated.cpp.o	4ba518740761dcae
+7	3853	1734173375806001137	CMakeFiles/appmodules.dir/Users/shahoodhussain/Documents/projects/react_native/splash_screen/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	ab22ef3dd550a916
+3853	4035	1734173375985965177	/Users/shahoodhussain/Documents/projects/react_native/splash_screen/android/app/build/intermediates/cxx/Debug/2z6z1394/obj/x86_64/libappmodules.so	f37fc16cfeadc331

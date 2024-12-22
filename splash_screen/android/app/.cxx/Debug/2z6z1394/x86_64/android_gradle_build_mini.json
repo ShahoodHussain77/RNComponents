@@ -1,0 +1,37 @@
+{
+  "buildFiles": [
+    "/Users/shahoodhussain/Documents/projects/react_native/splash_screen/node_modules/react-native-bootsplash/android/build/generated/source/codegen/jni/CMakeLists.txt",
+    "/Users/shahoodhussain/Documents/projects/react_native/splash_screen/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/shahoodhussain/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+      "-C",
+      "/Users/shahoodhussain/Documents/projects/react_native/splash_screen/android/app/.cxx/Debug/2z6z1394/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/shahoodhussain/Library/Android/sdk/cmake/3.22.1/bin/ninja",
+    "-C",
+    "/Users/shahoodhussain/Documents/projects/react_native/splash_screen/android/app/.cxx/Debug/2z6z1394/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "appmodules::@6890427a1f51a3e7e1df": {
+      "artifactName": "appmodules",
+      "abi": "x86_64",
+      "output": "/Users/shahoodhussain/Documents/projects/react_native/splash_screen/android/app/build/intermediates/cxx/Debug/2z6z1394/obj/x86_64/libappmodules.so",
+      "runtimeFiles": [
+        "/Users/shahoodhussain/.gradle/caches/8.10.2/transforms/8b60b4f75564ac53567672df7a1c9a73/transformed/fbjni-0.6.0/prefab/modules/fbjni/libs/android.x86_64/libfbjni.so",
+        "/Users/shahoodhussain/.gradle/caches/8.10.2/transforms/e7a87e28456e3cd3dea6e54dbe4d1714/transformed/react-android-0.76.3-debug/prefab/modules/jsi/libs/android.x86_64/libjsi.so",
+        "/Users/shahoodhussain/.gradle/caches/8.10.2/transforms/e7a87e28456e3cd3dea6e54dbe4d1714/transformed/react-android-0.76.3-debug/prefab/modules/reactnative/libs/android.x86_64/libreactnative.so"
+      ]
+    },
+    "react_codegen_RNBootSplashSpec::@05d5bd8b08339ce1ebaa": {
+      "artifactName": "react_codegen_RNBootSplashSpec",
+      "abi": "x86_64",
+      "runtimeFiles": []
+    }
+  }
+}
