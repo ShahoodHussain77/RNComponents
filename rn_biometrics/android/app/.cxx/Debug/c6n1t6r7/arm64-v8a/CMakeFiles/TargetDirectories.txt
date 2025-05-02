@@ -1,9 +1,0 @@
-/Users/shahoodhussain/Documents/projects/react_native/rn_biometrics/android/app/.cxx/Debug/c6n1t6r7/arm64-v8a/CMakeFiles/appmodules.dir
-/Users/shahoodhussain/Documents/projects/react_native/rn_biometrics/android/app/.cxx/Debug/c6n1t6r7/arm64-v8a/CMakeFiles/edit_cache.dir
-/Users/shahoodhussain/Documents/projects/react_native/rn_biometrics/android/app/.cxx/Debug/c6n1t6r7/arm64-v8a/CMakeFiles/rebuild_cache.dir
-/Users/shahoodhussain/Documents/projects/react_native/rn_biometrics/android/app/.cxx/Debug/c6n1t6r7/arm64-v8a/rnasyncstorage_autolinked_build/CMakeFiles/react_codegen_rnasyncstorage.dir
-/Users/shahoodhussain/Documents/projects/react_native/rn_biometrics/android/app/.cxx/Debug/c6n1t6r7/arm64-v8a/rnasyncstorage_autolinked_build/CMakeFiles/edit_cache.dir
-/Users/shahoodhussain/Documents/projects/react_native/rn_biometrics/android/app/.cxx/Debug/c6n1t6r7/arm64-v8a/rnasyncstorage_autolinked_build/CMakeFiles/rebuild_cache.dir
-/Users/shahoodhussain/Documents/projects/react_native/rn_biometrics/android/app/.cxx/Debug/c6n1t6r7/arm64-v8a/EasyBiometrics_autolinked_build/CMakeFiles/react_codegen_EasyBiometrics.dir
-/Users/shahoodhussain/Documents/projects/react_native/rn_biometrics/android/app/.cxx/Debug/c6n1t6r7/arm64-v8a/EasyBiometrics_autolinked_build/CMakeFiles/edit_cache.dir
-/Users/shahoodhussain/Documents/projects/react_native/rn_biometrics/android/app/.cxx/Debug/c6n1t6r7/arm64-v8a/EasyBiometrics_autolinked_build/CMakeFiles/rebuild_cache.dir
