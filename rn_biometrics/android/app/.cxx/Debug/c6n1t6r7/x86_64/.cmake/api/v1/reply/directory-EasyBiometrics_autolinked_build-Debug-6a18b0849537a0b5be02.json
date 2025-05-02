@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "EasyBiometrics_autolinked_build",
+		"source" : "/Users/shahoodhussain/Documents/projects/react_native/rn_biometrics/node_modules/react-native-easy-biometrics/android/build/generated/source/codegen/jni"
+	}
+}
