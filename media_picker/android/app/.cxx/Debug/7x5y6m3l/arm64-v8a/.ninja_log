@@ -1,0 +1,24 @@
+# ninja log v5
+1985	2047	1755197525261950047	/Users/shahood/Documents/projects/react_native/media_picker/android/app/build/intermediates/cxx/Debug/7x5y6m3l/obj/arm64-v8a/libappmodules.so	8c2ae628d74d64ed
+0	1985	1755197525201804077	CMakeFiles/appmodules.dir/OnLoad.cpp.o	d07a339af412f9f3
+0	1849	1755197525068202556	RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/ComponentDescriptors.cpp.o	cf36c0d82f098dbd
+0	1854	1755197525069684074	RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/RNImagePickerSpec-generated.cpp.o	f7a6b561112ec914
+0	1830	1755197525048953026	CMakeFiles/appmodules.dir/Users/shahood/Documents/projects/react_native/media_picker/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	c6211d89e928656c
+3	1754	1755197524973519047	RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/ShadowNodes.cpp.o	c5dbd4c570713cb6
+12	49	0	/Users/shahood/Documents/projects/react_native/media_picker/android/app/.cxx/Debug/7x5y6m3l/arm64-v8a/CMakeFiles/cmake.verify_globs	3a8a9aa480d5d5f2
+1	1689	1755197524908953147	RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/Props.cpp.o	7f8d3c0f91329950
+0	1478	1755197524698387296	RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/EventEmitters.cpp.o	a63621dedbeea117
+1	1744	1755197524960847746	RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/RNImagePickerSpecJSI-generated.cpp.o	f462d3e9336856cc
+2	1260	1755197524479528283	RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/States.cpp.o	7369d54486e1aedc
+1	10	0	/Users/shahood/Documents/projects/react_native/media_picker/android/app/.cxx/Debug/7x5y6m3l/arm64-v8a/CMakeFiles/cmake.verify_globs	3a8a9aa480d5d5f2
+9	1079	1755420570751588668	RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/States.cpp.o	7369d54486e1aedc
+6	1166	1755420570843234897	RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/EventEmitters.cpp.o	a63621dedbeea117
+6	1331	1755420571007987151	RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/Props.cpp.o	7f8d3c0f91329950
+7	1393	1755420571066505337	RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/RNImagePickerSpecJSI-generated.cpp.o	f462d3e9336856cc
+4	1423	1755420571095323218	RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/RNImagePickerSpec-generated.cpp.o	f7a6b561112ec914
+4	1483	1755420571157387810	CMakeFiles/appmodules.dir/Users/shahood/Documents/projects/react_native/media_picker/android/app/build/generated/autolinking/src/main/jni/autolinking.cpp.o	c6211d89e928656c
+4	1500	1755420571175158301	RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/ComponentDescriptors.cpp.o	cf36c0d82f098dbd
+7	1507	1755420571184052797	RNImagePickerSpec_autolinked_build/CMakeFiles/react_codegen_RNImagePickerSpec.dir/react/renderer/components/RNImagePickerSpec/ShadowNodes.cpp.o	c5dbd4c570713cb6
+1507	1653	1755420571329957508	/Users/shahood/Documents/projects/react_native/media_picker/android/app/build/intermediates/cxx/Debug/7x5y6m3l/obj/arm64-v8a/libappmodules.so	8c2ae628d74d64ed
+0	7	0	/Users/shahood/Documents/projects/react_native/media_picker/android/app/.cxx/Debug/7x5y6m3l/arm64-v8a/CMakeFiles/cmake.verify_globs	3a8a9aa480d5d5f2
+1	6	0	clean	6c7c9dbdfa9c84cb

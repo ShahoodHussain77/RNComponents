@@ -1,0 +1,1 @@
+/Users/shahood/Documents/projects/react_native/media_picker/android/app/build/intermediates/cxx/Debug/7x5y6m3l/obj/arm64-v8a

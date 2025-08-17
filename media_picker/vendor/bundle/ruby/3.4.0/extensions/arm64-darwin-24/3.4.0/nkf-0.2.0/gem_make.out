@@ -1,0 +1,18 @@
+current directory: /Users/shahood/Documents/projects/react_native/media_picker/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+/Users/shahood/.rbenv/versions/3.4.4/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/shahood/Documents/projects/react_native/media_picker/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250802-8669-6xsmhn sitelibdir\=./.gem.20250802-8669-6xsmhn clean
+
+current directory: /Users/shahood/Documents/projects/react_native/media_picker/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250802-8669-6xsmhn sitelibdir\=./.gem.20250802-8669-6xsmhn
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/shahood/Documents/projects/react_native/media_picker/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250802-8669-6xsmhn sitelibdir\=./.gem.20250802-8669-6xsmhn install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20250802-8669-6xsmhn
+
+current directory: /Users/shahood/Documents/projects/react_native/media_picker/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250802-8669-6xsmhn sitelibdir\=./.gem.20250802-8669-6xsmhn clean
