@@ -1,0 +1,1 @@
+/Users/shahood/Documents/projects/react_native/voice_to_text/android/app/build/intermediates/cxx/Debug/149552o2/obj/x86_64

@@ -1,0 +1,3 @@
+/Users/shahood/Documents/projects/react_native/voice_to_text/node_modules/@ascendtis/react-native-voice-to-text/android/generated/jni/CMakeLists.txt
+/Users/shahood/Documents/projects/react_native/voice_to_text/node_modules/react-native-safe-area-context/android/src/main/jni/CMakeLists.txt
+/Users/shahood/Documents/projects/react_native/voice_to_text/node_modules/react-native/ReactAndroid/cmake-utils/default-app-setup/CMakeLists.txt

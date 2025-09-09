@@ -1,0 +1,18 @@
+current directory: /Users/shahood/Documents/projects/react_native/voice_to_text/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+/Users/shahood/.rbenv/versions/3.4.4/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/shahood/Documents/projects/react_native/voice_to_text/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250817-22049-8090kh sitelibdir\=./.gem.20250817-22049-8090kh clean
+
+current directory: /Users/shahood/Documents/projects/react_native/voice_to_text/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250817-22049-8090kh sitelibdir\=./.gem.20250817-22049-8090kh
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/shahood/Documents/projects/react_native/voice_to_text/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250817-22049-8090kh sitelibdir\=./.gem.20250817-22049-8090kh install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20250817-22049-8090kh
+
+current directory: /Users/shahood/Documents/projects/react_native/voice_to_text/vendor/bundle/ruby/3.4.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20250817-22049-8090kh sitelibdir\=./.gem.20250817-22049-8090kh clean
